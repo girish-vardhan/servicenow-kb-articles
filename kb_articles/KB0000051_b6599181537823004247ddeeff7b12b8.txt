@@ -1,0 +1,25 @@
+KB Number: KB0000051
+
+Title: USB port is not working on my PC
+
+Description
+If you quickly and repeatedly insert and remove a USB device, the port may stop responding
+Workaround
+The USB port might not be broken. Try one of these workarounds:
+Workaround 1: Use Device Manager to scan for hardware changes
+You will need administrative credentials to perform some of the workarounds.
+Use the Device Manager to scan for hardware changes. Your computer may then recognize the USB device that is connected to the USB port.
+Click
+Start
+, and then
+Run
+.
+Type devmgmt.msc into the search box and select Ok. Device Manager opens.
+In Device Manager, select your computer.
+Click Action and then Scan for hardware changes.
+Check to see if the USB device is now working.
+Workaround 2: Restart your PC
+If scanning for hardware changes didn’t work. Try restarting your computer, then check the USB device to see if it now works.
+Cause
+This may occur because of a timing issue that prevents the computer from detecting the USB device.
+This has been investigated by operating system and hardware vendors but the results were inconclusive as this is intermittent.
