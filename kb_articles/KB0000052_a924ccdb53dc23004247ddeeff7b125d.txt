@@ -1,0 +1,10 @@
+KB Number: KB0000052
+
+Title: Cisco WebEx Meetings Server does not boot up after deployment
+
+Description
+The virtual machine does not boot up after deployment.
+Workaround
+Check the recommended system requirements and make sure your system has enough CPU, memory and disk space. Then try starting it again.
+Cause
+The server that the virtual machine is deployed on does not meet the minimum recommended system requirements.
