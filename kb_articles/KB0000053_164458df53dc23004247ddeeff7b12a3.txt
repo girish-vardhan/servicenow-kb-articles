@@ -2,6 +2,9 @@ KB Number: KB0000053
 
 Title: Switch to IPv6 causing IP address issues
 
+Description
+Devices configured only for IPv4 may fail to obtain a valid IP address after switching the network to IPv6.
+
 Workaround
 Check with the device manufacturer to see if a later firmware adds support for IPv6 addresses
 Cause
